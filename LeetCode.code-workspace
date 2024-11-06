@@ -7,7 +7,12 @@
 	],
 	"settings": {
 		"files.associations": {
-			"iomanip": "cpp"
+			"iomanip": "cpp",
+			"__locale": "cpp"
 		}
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
 	}
 }
